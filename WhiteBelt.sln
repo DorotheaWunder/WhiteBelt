@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Mini-Kata 2 - Variable P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Mini-Kata 3 - Conditionals Challenge", "4. Mini-Kata 3 - Conditionals Challenge\4. Mini-Kata 3 - Conditionals Challenge.csproj", "{A9677727-DBC8-4EB8-99B7-E06985A24DE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Kata 2 - Variables and Data Types", "5. Kata 2 - Variables and Data Types\5. Kata 2 - Variables and Data Types.csproj", "{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A9677727-DBC8-4EB8-99B7-E06985A24DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9677727-DBC8-4EB8-99B7-E06985A24DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9677727-DBC8-4EB8-99B7-E06985A24DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
