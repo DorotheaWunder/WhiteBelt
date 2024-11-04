@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Mini-Kata 3 - Conditiona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Kata 2 - Variables and Data Types", "5. Kata 2 - Variables and Data Types\5. Kata 2 - Variables and Data Types.csproj", "{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Mini-Kata 4 - Basic Loops", "6. Mini-Kata 4 - Basic Loops\6. Mini-Kata 4 - Basic Loops.csproj", "{F71CE33A-8725-43FF-AE68-32E85269AC69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD5859E-4886-4E08-BEF8-BD29C56FA0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71CE33A-8725-43FF-AE68-32E85269AC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71CE33A-8725-43FF-AE68-32E85269AC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71CE33A-8725-43FF-AE68-32E85269AC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71CE33A-8725-43FF-AE68-32E85269AC69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
