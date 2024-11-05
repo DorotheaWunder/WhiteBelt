@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Kata 3 - Conditionals", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Kata 4 - Loops", "8. Kata 4 - Loops\8. Kata 4 - Loops.csproj", "{4C906FC4-E4BF-498B-990E-1A2B85D18834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp19. Exam Kata - Simple Console RPG", "ConsoleApp19. Exam Kata - Simple Console RPG\ConsoleApp19. Exam Kata - Simple Console RPG.csproj", "{EA3029BC-E961-4457-A17A-CA114D53FC32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{4C906FC4-E4BF-498B-990E-1A2B85D18834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C906FC4-E4BF-498B-990E-1A2B85D18834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C906FC4-E4BF-498B-990E-1A2B85D18834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3029BC-E961-4457-A17A-CA114D53FC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3029BC-E961-4457-A17A-CA114D53FC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3029BC-E961-4457-A17A-CA114D53FC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3029BC-E961-4457-A17A-CA114D53FC32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
